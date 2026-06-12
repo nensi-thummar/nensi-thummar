@@ -39,6 +39,3 @@ Aspiring VLSI Engineer passionate about RTL Design, FPGA Development,ASIC Design
 
 
 
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-6B7280)
-
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-4B5563)
