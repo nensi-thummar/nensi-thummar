@@ -30,7 +30,7 @@ Aspiring VLSI Engineer passionate about RTL Design, FPGA Development,ASIC Design
 ![FPGA Development](https://img.shields.io/badge/FPGA%20Development-374151)
 ![Hardware Verification](https://img.shields.io/badge/Hardware%20Verification-374151)
 
-###  Protocols
+### Protocols
 
 ![UART](https://img.shields.io/badge/UART-374151)
 ![SPI](https://img.shields.io/badge/SPI-374151)
