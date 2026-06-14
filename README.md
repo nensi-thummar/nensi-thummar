@@ -1,14 +1,8 @@
 <div align="center">
 
-#  Nensi Thummar
-
-### Electronics & Communication Engineering Student
-
-Aspiring VLSI Engineer passionate about RTL Design, FPGA Development,ASIC Design, Computer Architecture, Processor Design nd Hardware Verification.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a1a4e,100:0a3d62&height=200&section=header&text=Nensi%20Thummar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=VLSI%20Engineer%20%7C%20Nirma%20University%20ECE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
-
----
 
 #  About Me
 
@@ -39,3 +33,6 @@ Aspiring VLSI Engineer passionate about RTL Design, FPGA Development,ASIC Design
 
 
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:1a1a4e,100:0d0221&height=100&section=footer" width="100%"/>
